@@ -9,7 +9,7 @@ Show Image
 
 </div>
 
-<img align="right" alt="Coding Girl" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 🌸 About Me
 
 
