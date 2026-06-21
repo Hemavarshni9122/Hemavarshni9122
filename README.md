@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hemavarshni%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Researcher%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6BD6&center=true&vCenter=true&random=false&width=600&lines=🤖+AI+%26+Data+Science+Student+%40+LICET;🔬+Research+Presenter+%40+ICAIDS+2026;💻+ECSoC+2026+Open+Source+Contributor;🛡️+Cybersecurity+Enthusiast;🌸+Building+Intelligent+Systems+that+Matter!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6BD6&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student+%40+LICET;Research+Presenter+%40+ICAIDS+2026;ECSoC+2026+Open+Source+Contributor;Cybersecurity+Enthusiast;Building+Intelligent+Systems!" alt="Typing SVG" />
 <br/>
 <a href="https://linkedin.com/in/hemavarshni-s-127254330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hemavarshni7777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
