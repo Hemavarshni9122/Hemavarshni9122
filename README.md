@@ -53,11 +53,105 @@ Tools & Platforms
 
 
 
-<div align="center">
-<h2>🚀 Featured Projects</h2>
-🔬 Project💡 Description🛠️ Tech🤖 AI Resume ScreenerNLP-based resume ranking using TF-IDF & cosine similarityPython · NLP · Streamlit🫘 Kidney Disease PredictionML web app predicting CKD with 25+ clinical featuresPython · Scikit-learn🔐 Secure Login SystemJWT auth with bcrypt hashing & brute-force preventionFastAPI · SQL🔑 Password Strength AnalyzerReal-time password scoring & suggestionsPython💳 Credit Card Fraud DetectionSMOTE-balanced fraud detection on imbalanced dataPython · Scikit-learn📡 Real-Time Noise MonitorIoT-based ambient noise detection & visualizationPython · IoT📉 Customer Churn PredictionPredictive analytics for customer retentionPython · ML
+🚀 Featured Projects
 
-</div>
+<details>
+<summary><b>🤖 AI-Powered Resume Screener</b></summary>
+<br>
+
+NLP-based resume ranking system using TF-IDF & cosine similarity to match candidates to job descriptions automatically.
+
+
+
+Tech: Python NLP Scikit-learn Streamlit Pandas
+
+Show Image
+
+</details>
+
+<details>
+<summary><b>🫘 Kidney Disease Prediction</b></summary>
+<br>
+
+ML web app predicting Chronic Kidney Disease using 25+ clinical attributes with Logistic Regression, Random Forest & Decision Tree classifiers.
+
+
+
+Tech: Python Scikit-learn Pandas Streamlit
+
+Show Image
+
+</details>
+
+<details>
+<summary><b>🔐 Secure Login System</b></summary>
+<br>
+
+FastAPI backend with JWT token-based session management, bcrypt password hashing, and SQL database for secure authentication.
+
+
+
+Tech: Python FastAPI SQL JWT bcrypt
+
+Show Image
+
+</details>
+
+<details>
+<summary><b>🔑 Smart Password Strength Analyzer</b></summary>
+<br>
+
+Rule-based and pattern-matching tool that scores password strength in real time and suggests stronger alternatives.
+
+
+
+Tech: Python
+
+Show Image
+
+</details>
+
+<details>
+<summary><b>💳 Credit Card Fraud Detection</b></summary>
+<br>
+
+Supervised learning fraud detection model on imbalanced transaction data using SMOTE for class balancing, evaluated on precision, recall, and F1-score.
+
+
+
+Tech: Python Scikit-learn Pandas NumPy Matplotlib
+
+Show Image
+
+</details>
+
+<details>
+<summary><b>📡 Real-Time Noise Monitoring System</b></summary>
+<br>
+
+IoT-based system to detect and monitor ambient noise in real time, visualising trend data for environmental decision-making.
+
+
+
+Tech: Python IoT Sensors Data Pipeline
+
+Show Image
+
+</details>
+
+<details>
+<summary><b>📉 Customer Churn Prediction</b></summary>
+<br>
+
+Predictive analytics solution using EDA, feature selection, and ML models to identify customers likely to churn.
+
+
+
+Tech: Python Scikit-learn Pandas Matplotlib Seaborn
+
+Show Image
+
+</details>
 
 <div align="center">
 <h2>📊 GitHub Stats</h2>
@@ -68,11 +162,77 @@ Tools & Platforms
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemavarshni9122&theme=radical&hide_border=true&background=0D1117&ring=FF6BD6&fire=FF6BD6&currStreakLabel=FF6BD6" width="70%"/>
 </div>
 
-<div align="center">
-<h2>🏆 Achievements & Certifications</h2>
-🏅 Achievement📅 Year🎤 Research Presenter — ICAIDS 2026 International AI Conference2026🚀 ECSoC 2026 Contributor — Elite Coders Summer of Code2026🛡️ Cybersecurity Intern — incodeVision, Chennai2026📊 Deloitte Data Analytics Job Simulation — Forage2026🌐 Google Gemini Certified Student — Google2026🏆 Excellence Award — IoRT Workshop, ARC Labs2025💻 Code Verse State-Level Hackathon — Meenakshi College2025
+🏆 Achievements & Certifications
 
-</div>
+<details>
+<summary><b>🎤 Research Presenter — ICAIDS 2026</b></summary>
+<br>
+
+Presented "Transformation from Classroom to Career via Data-Driven Intelligent Job Alignment Using Semantic Models" at the International Conference on AI & Data Science, Feb 2026.
+
+
+
+</details>
+
+<details>
+<summary><b>🚀 ECSoC 2026 Contributor — Elite Coders Summer of Code</b></summary>
+<br>
+
+Selected as a contributor for the Elite Coders Summer of Code 2026, contributing to open-source projects under the UI Components track.
+
+
+
+</details>
+
+<details>
+<summary><b>🛡️ Cybersecurity Intern — incodeVision, Chennai</b></summary>
+<br>
+
+Gained hands-on experience in network security, vulnerability assessment, ethical hacking basics, and security analysis techniques. (March – April 2026)
+
+
+
+</details>
+
+<details>
+<summary><b>📊 Deloitte Data Analytics Job Simulation — Forage</b></summary>
+<br>
+
+Completed telemetry data analysis, built a Tableau dashboard, and performed Excel-based equality classification tasks.
+
+
+
+</details>
+
+<details>
+<summary><b>🌐 Google Gemini Certified Student — Google</b></summary>
+<br>
+
+Recognised as a Google Gemini Certified Student for demonstrated proficiency in Google Gemini AI tools and technologies.
+
+
+
+</details>
+
+<details>
+<summary><b>🏆 Excellence Award — IoRT Workshop, ARC Labs (2025)</b></summary>
+<br>
+
+Outstanding performance in a 5-day intensive IoT & IoRT workshop. Applied automation and smart technology concepts through live lab sessions.
+
+
+
+</details>
+
+<details>
+<summary><b>💻 Code Verse State-Level Hackathon — Meenakshi College (2025)</b></summary>
+<br>
+
+Participated in a state-level hackathon, applying AI & data science skills to build innovative solutions under time constraints.
+
+
+
+</details>
 
 <div align="center">
 <h2>🐍 Contribution Snake</h2>
