@@ -14,18 +14,16 @@ Hey There! I'm <span>Hemavarshni S</span>
 </div>
 
 <img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-🌸 About Me
+ABOUT ME
 
 
 🎓 2nd Year B.Tech — AI & Data Science @ LICET, Chennai
 🔬 Research Presenter @ ICAIDS 2026 — International AI Conference
-🛡️ Cybersecurity Intern @ incodeVision, Chennai
 🏅 Excellence Award — IoRT Workshop @ ARC Labs
 📊 Deloitte Data Analytics Job Simulation — Forage
 🌐 Google Gemini Certified Student
-🚀 ECSoC 2026 Contributor — Elite Coders Summer of Code
 💡 Currently exploring LLMs, Open Source & Cloud AI
-📍 Chennai, Tamil Nadu, India
+
 
 
 <br clear="right"/>
