@@ -7,8 +7,7 @@ Hey There! I'm <span>Hemavarshni S</span>
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=26&pause=1000&color=FF6BD6&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student+%40+LICET;Research+Presenter+%40+ICAIDS+2026;ECSoC+2026+Open+Source+Contributor;Cybersecurity+Enthusiast;Building+Intelligent+Systems+that+Matter!" alt="Typing SVG" />
 <br/>
 <a href="https://linkedin.com/in/hemavarshni-s-127254330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="mailto:hemavarshni7777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-<a href="https://github.com/Hemavarshni9122"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
+<a href="mailto:hemavarshni7777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <img src="https://komarev.com/ghpvc/?username=Hemavarshni9122&label=Profile+Views&color=FF6BD6&style=for-the-badge"/>
 
 </div>
